@@ -1,3 +1,3 @@
 # Security Policy
 
-***This is historic source code.***  It may contain known and unknown security vulnerabilities, and is **not** actively maintained.
+**_This is historic source code._** It may contain known and unknown security vulnerabilities, and is **not** actively maintained.
